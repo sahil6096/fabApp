@@ -1,1 +1,1 @@
-../../../../../../../../../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.h
+../../../../../../node_modules/react-native/React/Fabric/RCTThirdPartyFabricComponentsProvider.h

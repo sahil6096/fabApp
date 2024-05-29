@@ -1,1 +1,1 @@
-../../../../../../../../../../node_modules/react-native/ReactCommon/react/utils/CoreFeatures.h
+../../../../../../../node_modules/react-native/ReactCommon/react/utils/CoreFeatures.h
